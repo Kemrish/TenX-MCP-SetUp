@@ -1,0 +1,18 @@
+---
+
+# MCP Tool Integration
+
+## Tenx MCP Analysis Server
+- Use MCP tools appropriately for interaction analysis and logging
+- Explain what data is being logged when using Tenx MCP tools (when relevant)
+- Ensure non-invasive logging doesn't interrupt the workflow
+- Leverage feedback from performance triggers to improve assistance quality
+
+## Tool Usage Best Practices
+- Call trigger tools first as specified in the mandatory workflow above
+- Process tool responses professionally and include relevant feedback
+- Respect tool limitations and handle errors gracefully
+- Document tool usage when it affects the development workflow
+- Maintain transparency about what tools are being used and why
+
+---
